@@ -1,0 +1,9 @@
+Install the neccessary packages
+pip install pandas
+pip install base64
+pip install pickle
+pip install sklearn
+pip install streamlit
+
+Run the following command to execute app
+streamlit run app.py
